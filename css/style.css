@@ -1,0 +1,63 @@
+
+/* Setting paramters for the body */
+body {
+    background-image: url(https://images.pexels.com/photos/707915/pexels-photo-707915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+    /* display: flex; */
+    
+   
+}
+
+/* Adding styling to portfolio gallery images */
+.gallery {
+    text-shadow: 2px 2px 8px #FF0000;
+    color: white;
+    font-size: 48px;
+}
+
+hr {
+    background: white;
+}
+
+.about-hdr {
+    color: white
+}
+
+/* Setting parameters for the contact form */
+.contact-form {
+    background: rgba(0,0,0, .6);
+    color: white;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+.main-p {
+    background: rgba(0,0,0, .6);
+    color: white;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+/* Setting parameters for the placeholder images */
+.placeholder {
+    background-color: light gray;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px 10px #ede661;
+}
+
+/* Adding clearfix */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.footer {
+    text-align: center;
+}
