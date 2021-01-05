@@ -14,7 +14,7 @@ This project is an ongoing one to create my portfolio page.  Future updates will
 areas of experience.
 
 ## Screenshots
-![Example screenshot](./readme_images/screenshot1.png)
+![Example screenshot](./readme_images/screenshot_1.png)
 
 ## Code Validation
 ![Example screenshot](./readme_images/home_page_code_validation.png)
